@@ -1,0 +1,17 @@
+body {
+    background-color:azure;
+    text-align: center;
+    height: auto;
+    width: 250px;
+}
+
+button {
+    width: 100%;
+    color:beige;
+    background:linear-gradient(#ff3232, #deff00);
+    border: 0;
+    border-radius: 30px;
+    padding: 5px;
+    cursor: pointer;
+    font: bold;
+}
